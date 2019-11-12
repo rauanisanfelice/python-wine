@@ -51,7 +51,7 @@ Os atributos são (não indicados por Riccardo Leardi, riclea)
 8) Fenóis não flavonóides
 9) Proantocianinas
 10) Intensidade de cor
-11) Matiz
+11) Cor
 12) OD280 / OD315 de vinhos diluídos
 13) Prolina
 
@@ -59,7 +59,7 @@ Os atributos são (não indicados por Riccardo Leardi, riclea)
 
 ## Testes realizados:
 
-Foi realizado teste com 5 algoritmos de Machine Learning de Classificação:
+Foi realizado teste com 1 algoritmo de Machine Learning de Classificação:
 
 > Teste_Algoritmos.ipynb
 
@@ -68,21 +68,15 @@ Foi realizado teste com 5 algoritmos de Machine Learning de Classificação:
 
 ## Tabelas de resultados:
 | Algoritmo  | Best Acurácia |
-|:--|:--:|:--:|
-| KMeans | % |
-| DECISION TREE | % |
-| SVM | % |
-| MLP | % |
-| NAIVE BAYES | % |
+|:--|:--:|
+| KMeans | 83.33% |
 
-O ####### por ter retornado a melhor acurácia foi utilizado no aplicativo
-
-
+O KMeans por ter retornado a melhor acurácia foi utilizado no aplicativo
 
 ## Links;
 
-[Data Set](https://archive.ics.uci.edu/ml/datasets/Wine)
-[Matplotlib](https://pythonspot.com/matplotlib-scatterplot/)
+[Data Set](https://archive.ics.uci.edu/ml/datasets/Wine)  
+[Matplotlib](https://pythonspot.com/matplotlib-scatterplot/)  
 [SkLearnf KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
 ## Citações:
