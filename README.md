@@ -1,19 +1,20 @@
-<!--
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rauanisanfelice/jenkins-blueocean.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/rauanisanfelice/jenkins-blueocean.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/rauanisanfelice/jenkins-blueocean.svg)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/rauanisanfelice/jenkins-blueocean.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/rauanisanfelice/jenkins-blueocean.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/rauanisanfelice/jenkins-blueocean.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rauanisanfelice/python-wine.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/rauanisanfelice/python-wine.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rauanisanfelice/python-wine.svg)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/rauanisanfelice/python-wine.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/rauanisanfelice/python-wine.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/rauanisanfelice/python-wine.svg)
 
-![GitHub stars](https://img.shields.io/github/stars/rauanisanfelice/jenkins-blueocean.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/rauanisanfelice/python-wine.svg?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/rauanisanfelice.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rauanisanfelice/jenkins-blueocean.svg?style=social)
--->
+![GitHub forks](https://img.shields.io/github/forks/rauanisanfelice/python-wine.svg?style=social)
+
 
 # Python Data Set
 
 Projeto de classificação com Python e Machine Learning com uma base de Vinhos.
+
+![Tela Início](https://raw.githubusercontent.com/rauanisanfelice/python-wine/master/img/wine.jpeg)
 
 ## Instalar;
 
